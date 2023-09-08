@@ -1,0 +1,1 @@
+{"name":"Local: sum_of_numbers","url":"c:\\Users\\Adam\\OneDrive\\Documents\\VScode\\C++\\Learing\\sum_of_numbers.cpp","tests":[{"id":1691242985987,"input":"1 2 3 4 5 6 7 8 9 10","output":"55"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Adam\\OneDrive\\Documents\\VScode\\C++\\Learing\\sum_of_numbers.cpp","group":"local","local":true}
